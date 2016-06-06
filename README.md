@@ -32,7 +32,8 @@ Ask people in [#devchat](http://devchat.devolio.net/) and in [/r/devchat](https:
  
  
 ### Voting, Winners and prizes
-Duration: 2 weeks. 
+Deadline: Sunday, June 19th. (exact time TBA)  
+The project with the most Stargazers wins. We will allow for a voting period (TBA, too).  
 Prizes? Sponsors? TBD/TBA.  
 
 ### Notes
