@@ -39,4 +39,4 @@ Prizes? Sponsors? TBD/TBA.
 
 ### Notes
 
-- Don't forget to **watch** this repo to stay uptdates. Also **star** it while you're at it.
+- Don't forget to **watch** this repo to stay updated. Also **star** it while you're at it.
