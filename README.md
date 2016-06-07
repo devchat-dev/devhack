@@ -4,6 +4,7 @@
 > Code challenges sites are cute but they are not good neither for building a portfolio or making something useful for yourself and your friends. - Abraham van Hodgenville  
 
 Create useful software by participating in **DevHack**  
+Discuss in [#devhack](https://devolio-devchat.slack.com/messages/devhack/details/)  
 
 There are two ways:
 
