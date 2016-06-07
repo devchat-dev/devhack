@@ -17,7 +17,7 @@ Follow these steps
 
 Tips:
 
-* It's recommended that be the one who writes the first lines of code, even before getting a team.
+* It's recommended that you be the one who writes the first lines of code, even before getting a team.
 * You should take the role of development lead or assign a leader asap.
 * Tell people when your team is complete, but it's a good idea to have somebody in reserve.
 
