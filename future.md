@@ -1,3 +1,7 @@
+# WORK IN PROGRESS
+Please see [README](https://github.com/devolio-devchat/devhack/blob/master/README.md) for details.
+
+---
 ![devhack banner](https://raw.githubusercontent.com/devolio-devchat/devhack/master/DevHackLogo.png)
 
 ### What's _DevHack_?
